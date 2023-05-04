@@ -1,0 +1,33 @@
+div {
+    height: 570px;
+    width: 300px;
+    background-color: rgb(111, 111, 111);
+}
+
+ul {
+    list-style: none;
+    margin-left: -40px;
+}
+
+li {
+    width: 300px;
+    padding-top: 34px;
+    height: 80px;
+    text-align: center;
+    color: white;
+}
+img {
+    max-height: 40%;
+    max-width: 60%;
+    vertical-align: middle;
+    margin-left: -100px;
+    margin-right: 70px;
+}
+
+
+li:hover{
+    background-color: rgb(47, 47, 47);
+}
+span{
+    vertical-align: middle;
+}
