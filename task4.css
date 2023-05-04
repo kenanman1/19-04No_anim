@@ -1,0 +1,76 @@
+footer {
+    background-color: darkblue;
+    width: 1400px;
+    height: 500px;
+    margin: 50px;
+}
+
+#links1 ul {
+    margin-left: 130px;
+    padding-top: 100px;
+    list-style: none;
+}
+
+li {
+    margin-top: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#linksul2 {
+    margin-left: 500px;
+    list-style: none;
+    margin-top: -120px;
+}
+
+hr {
+    margin-top: 50px;
+    width: 1200px;
+}
+
+p {
+    margin-top: 50px;
+    margin-left: 520px;
+    color: white;
+}
+
+#facebook {
+    position: absolute;
+    margin-top: -190px;
+    margin-left: 1000px;
+    display: inline-block;
+    width: 50px;
+    height: 100px;
+    background-image: url(https://www.facebook.com/images/fb_icon_325x325.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#insta{
+    position: absolute;
+    margin-top: -190px;
+    margin-left: 1100px;
+    display: inline-block;
+    width: 50px;
+    height: 100px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#youtube{
+    position: absolute;
+    margin-top: -190px;
+    margin-left: 1200px;
+    display: inline-block;
+    width: 50px;
+    height: 100px;
+    background-image: url(https://www.youtube.com/img/desktop/yt_1200.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
